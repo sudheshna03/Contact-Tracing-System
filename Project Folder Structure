@@ -1,0 +1,17 @@
+contact-tracing-system/
+│
+├── data/
+│   └── sample_data.json
+│
+├── notebooks/
+│   └── contact_tracing_analysis.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── model_training.py
+│   ├── visualization.py
+│   └── heatmap_generator.py
+│
+├── requirements.txt
+├── README.md
+└── main.py
